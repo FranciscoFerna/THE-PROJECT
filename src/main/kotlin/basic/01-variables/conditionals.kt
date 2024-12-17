@@ -5,7 +5,7 @@ import functions.SCANNER
 /*
 @author: Francisco Fernandez Navarro
 #date: 17 de Diciembre de 2024
-%file: variables.kt\
+%file: conditionals.kt\
 */
 
 /*
